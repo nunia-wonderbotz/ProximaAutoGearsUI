@@ -1,0 +1,9 @@
+export class UploadDatasourceModel{
+    id: string='';
+    file_key: string='';
+    status: number=0;
+    created_by: string='';
+    created_date: string='';
+    extractedresult: string ='';
+    isActive: boolean= false;
+}
