@@ -19,8 +19,8 @@ export class ClipUploadService {
     var httpOptions = {
 
       headers: new HttpHeaders({
-        name: 'niraj',
-         created_by: 'niraj Singh',
+        name: 'Admin',
+         created_by: 'Admin',
         'Content-Type': 'application/json',
         'Accept': 'application/json',
         file_key: fileKey

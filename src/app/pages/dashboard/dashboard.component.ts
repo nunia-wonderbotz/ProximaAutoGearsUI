@@ -136,7 +136,7 @@ export class AppDashboardComponent {
       id: 1,
       time: '09.30 am',
       color: 'primary',
-      subtext: 'File uploaded by Monika',
+      subtext: 'File uploaded by Admin',
     },
     {
       id: 2,
